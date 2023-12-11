@@ -29,7 +29,7 @@ font-size:18px; /* Tamanho da fonte H1 */
 }
 
 
-/*Formatação do Paragrafo, do exemplo da Linguagem jQuery.*/
+/*Formatação do Paragrafo, do exemplo Personagem em Destaque.*/
 p{margin-bottom:10px;}
 pre {
 	background:#fafafaf6;
@@ -58,7 +58,7 @@ padding:20px;
 
 /*Formatação do Menu Principal, Links Internos, Home, Contato etc.*/
 #menu{
-background-color: #141414;
+background-color: #655e5e;
 color:#FFFFFF;
 padding: 15px;
 }
